@@ -1,3 +1,5 @@
-# Title
-
-My attempt at making wordle in react
+# Instructions
+```sh
+npm install
+npm run dev
+```
