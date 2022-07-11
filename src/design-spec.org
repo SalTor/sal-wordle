@@ -1,0 +1,4 @@
+* Requirements
+** Grid: 5 tiles across, 6 rows down
+*** Each row represents a word
+** There's only one guess at a time
